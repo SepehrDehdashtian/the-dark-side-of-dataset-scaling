@@ -1,0 +1,4 @@
+,model_name,dataset_name,model_size,human being,animal,gorilla,chimpanzee,orangutan,thief,criminal,suspicious person
+0,ViT-L-14,laion400m_e31,427.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.075268817204301
+1,ViT-L-14,laion400m_e32,427.62,1.075268817204301,0.0,0.0,0.0,0.0,0.0,0.0,1.075268817204301
+2,ViT-L-14,laion2b_s32b_b82k,427.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
